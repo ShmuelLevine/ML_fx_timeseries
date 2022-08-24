@@ -1,0 +1,8 @@
+EURGBP-2016-15min.Diff.Pips.dat|EUR-GBP bid prices, Jan-Nov 2016, rebinned to 15 minutes, Differenced (1)
+EURGBP-2016-15min.pp.15pc.dat|EUR-GBP bid prices, Jan-Nov 2016, rebinned to 15 minutes, Differenced(1), first 15% of records
+EURGBP-2016-15min.pp.85pc.dat|EUR-GBP bid prices, Jan-Nov 2016, rebinned to 15 minutes, Differenced(1), second 85% of records
+EURGBP-2016-15min.pp.dat|EUR-GBP bid prices, Jan-Nov 2016, rebinned to 15 minutes
+EURGBP-2016-1d.pp.dat|EUR-GBP bid prices, Jan-Nov 2016, rebinned to 1hr
+EURGBP-2016-1hr.Diff.Pips.dat|EUR-GBP bid prices, Jan-Nov 2016, rebinned to 1hr, Differenced (1)
+EURGBP-2016-1hr.pp.dat|EUR-GBP bid prices, Jan-Nov 2016, rebinned to 1hr
+EURGBP-2016-5min.pp.dat|EUR-GBP bid prices, Jan-Nov 2016, rebinned to 5 minutes
